@@ -15,7 +15,7 @@ namespace WebScraperGui
     {
         private readonly HttpClient httpClient;
         private readonly ChromeDriver driver;
-        private readonly string X_RapidAPI_Key = "d02ba82c0bmsh76104103d78cce7p1c01c2jsndd439a94f8d3";
+        private readonly string X_RapidAPI_Key = "18f6677b0fmsh21557794cd18ac7p1df9a9jsn928a5c1bfa73";
         private readonly string X_RapidAPI_Host = "ocr43.p.rapidapi.com";
 
         public JumpAuthetication(ChromeDriver driver)
